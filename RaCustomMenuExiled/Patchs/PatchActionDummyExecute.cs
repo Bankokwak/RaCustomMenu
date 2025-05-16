@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using CommandSystem;
 using CommandSystem.Commands.RemoteAdmin.Dummies;
+using Exiled.API.Features;
 using HarmonyLib;
 using NetworkManagerUtils.Dummies;
 using RemoteAdmin.Communication;
